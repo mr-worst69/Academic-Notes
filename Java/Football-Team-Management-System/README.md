@@ -39,3 +39,17 @@ Football-Team-Management-System
 ## Technology
 - Java
 - Object-Oriented Programming
+
+- ## How to Run
+
+1. Clone this repository
+2. Open the project in any Java IDE
+3. Compile all Java files
+4. Run `Main.java`
+
+Example:
+
+```
+javac Main.java
+java Main
+```
