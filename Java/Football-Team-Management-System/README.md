@@ -40,7 +40,7 @@ Football-Team-Management-System
 - Java
 - Object-Oriented Programming
 
-- ## How to Run
+## How to Run
 
 1. Clone this repository
 2. Open the project in any Java IDE
@@ -49,7 +49,7 @@ Football-Team-Management-System
 
 Example:
 
-```
+```bash
 javac Main.java
 java Main
 ```
