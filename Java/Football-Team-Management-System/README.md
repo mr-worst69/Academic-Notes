@@ -25,12 +25,16 @@ A Java-based Football Team Management System developed using Object-Oriented Pro
 
 ## Project Structure
 
-Main.java
-Person.java
-Player.java
-PlayerOperation.java
-TeamManagement.java
-InvalidPlayerException.java
+```text
+Football-Team-Management-System
+
+├── Main.java
+├── Person.java
+├── Player.java
+├── PlayerOperation.java
+├── TeamManagement.java
+└── InvalidPlayerException.java
+```
 
 ## Technology
 - Java
